@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsla(5, 80%, 65%, 0.8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: hsla(240, 80%, 50%, 1.0);
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsla(120, 80%, 65%, 0.8);
+    font-size: 24px;
+    font-weight: 700;
+}
